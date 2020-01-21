@@ -1,4 +1,7 @@
-#!/usr/bin/env bash
+# make sure functions is loaded
+function hello() {
+	echo "Hello from zsh"
+}
 
 # Create a new directory and enter it
 function mkd() {
