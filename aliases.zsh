@@ -1,4 +1,5 @@
 alias a="ansible"
+alias a-p="ansible-playbook"
 alias d="docker"
 alias dc="docker-compose"
 alias g="git"
